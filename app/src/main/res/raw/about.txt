@@ -1,0 +1,26 @@
+ELEK:SYON 1.0 (Alpha)
+
+ELEK:SYON was made by computer engineering students of De La Salle university as their required project for the subject LBYCP24. The idea of the app came from the students themselves and not the school or the professor handling the subject. ELEK:SYON was made for the purpose of giving awarness to Filipinos about the upcoming 2016 elections. 
+
+The app consists of brief information of the presidencial and vice presidencial candidates. These information are the things what people commonly want to know about the candidates such as the candidates educational and political background. The app may not have given the full information about the candidates but the infos 
+may be enough for the voters to have an idea of who are they going to vote or to know or to have an idea who the candidates are and their capabilities as leaders.
+
+ELEK:SYON also includes a QR Scode Scanner for the Voters ID. Although it only scans the QR code and does not give any indication whether the ID is valid or not. That capability belongs to the COMELEC since they ahve access to the database of valid voters.
+
+The last thing included in this app is the link to the news (ABS-CBN) for users to be more aware of the upcoming 2016 elections
+
+The app also features SQLite databse of the candidates and can be reused for future elections by just changing the database file itself
+
+NOTE: 
+-ELEK:SYON was made for academic purposes only and was not made or requested to be made by De La Salle University
+
+Sources
+https://www.abs-cbnnews.com/halalan2016
+http://www.senate.gov.ph
+http://congress.gov.ph
+http://www.rappler.com/nation/politics/elections/2016/108881-candidates-president-vp-philippines
+http://newsinfo.inquirer.net/677750/duterte-is-lpus-outstanding-alumnus
+http://miriam.com.ph/newsblog
+http://www.trillanes.com.ph
+http://marroxas.com
+http://www.ovp.gov.ph/index.php/programs/vice-president-s-corner

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/halalan2016"
+        android:src="@drawable/halalan"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="5dp"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/candidatepic"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/image_design3"
+        android:src="@drawable/duterte"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"
+        android:id="@+id/Name"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"
+        android:id="@+id/Position"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/Party"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Education"
+        android:src="@drawable/edu"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/edub"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/politics"
+        android:cropToPadding="false"
+        android:scaleType="fitXY"
+        android:src="@drawable/politics"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/polb"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textSize="20sp"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
+</ScrollView>
